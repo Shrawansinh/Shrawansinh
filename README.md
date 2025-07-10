@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shrawansinh prankada
-- 👀 I’m interested in website development,share market
+- 👀 I’m interested in website development specially for frontend devloper
 - 🌱 I’m currently learning b tech cse and also share market
 - 💞️ I’m looking to collaborate on website devlopment and stock market .
-- 👀 skill : HTML, CSS, JS , Node.js, c lang. etc
+- 👀 skill : HTML, CSS, JS , boostrap , Node.js, c lang, Java , python etc
 - 📫 How to reach me ?
 - 
-- message me on 8200176364 for web, trading,share market.
