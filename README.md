@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on website devlopment and stock market .
 - 👀 skill : HTML, CSS, JS , boostrap , c lang, Java , python etc
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shrawansinh/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/shrawansinh_p_prankada/)
 - ## 🚀 Tools & Technologies
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -14,5 +19,3 @@
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-
-- 
