@@ -19,3 +19,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+
+![Shrawan'sStats](https://github-readme-stats.vercel.app/api?username=shrawansinh&show_icons=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrawansinh)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrawansinh)
