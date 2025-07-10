@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrawansinh prankada
 - 👀 I’m interested in website development specially for frontend devloper
-- 🌱 I’m currently learning b tech cse and also share market
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on website devlopment and stock market .
 - 👀 skill : HTML, CSS, JS , boostrap , c lang, Java , python etc
 - ## 🚀 Tools & Technologies
